@@ -1,7 +1,7 @@
 Welcome to CircuitPython!
 #############################
 
-Hello Maker Faire Bay Area - we wanted to have a fun ~electronic~ item, that
+Hello Maker Faire Bay Area - we wanted to have a fun electronic item, that
 does more than just a sticker! What you have in your hand is a special 
 edition Circuit Playground Express, brought to you by Adafruit and Digi-Key.
 
